@@ -7,7 +7,7 @@ function lastImageSelector() {
   $('div:last');
 }
 function ninjaBabySelector() {
-  $
+  $("img[id=")
 }
 function divSelector() {
   $('.pics');
