@@ -4,5 +4,14 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  $('')
+  $('div:last');
+}
+function ninjaBabySelector() {
+  
+}
+function divSelector() {
+  
+}
+function firstListItem() {
+  $('ul')
 }
